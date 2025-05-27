@@ -203,7 +203,7 @@ def main():
         st.rerun()
 
     # Add tabs for different visualizations
-    tab1, tab2, tab3, tab4 = st.tabs(["Home", "Threats", "Logs", "Posts"])
+    tab1, tab2, tab3 = st.tabs(["Home", "Threats", "Logs"])
 
     with tab1:
         st.header("Home")
@@ -355,49 +355,6 @@ def main():
         st.title("Top 10 Most Frequent Logs")
         st.write("In this table it is possible to visualize the top 10 most frequent logs.")
         display_top_ip_logs(data_ip_logs, start_date, end_date)
-
-    with tab4:
-        st.header("Search Social Media Posts")
-
-        # **User Input: Keywords and Date Selection**
-        keywords = st.text_input("Enter keywords (comma-separated)", "linux", key="keywords_input")
-        selected_date = st.date_input("Select date", datetime.today(), key="date_input")
-
-        # **Multi-select source type (Twitter and/or Reddit)**
-        source_types = st.multiselect("Select source types", ["twitter", "reddit"], default=["twitter", "reddit"],
-                                      key="source_type_input")
-
-        # **Multi-select display languages**
-        display_languages = st.multiselect("Select display languages", ["da", "de", "el", "en", "fr", "it", "sv"],
-                                           default=["en"], key="language_input")
-
-        # **User selects the number of responses**
-        limit = st.slider("Select the number of posts to retrieve", min_value=1, max_value=100, value=10,
-                          key="limit_input")
-
-        # **Button to fetch data ONLY when clicked**
-        if st.button("Search Posts", key="search_button"):
-            st.session_state["fetch_data"] = True  # Set flag to trigger API call
-
-        # **Run API only if button was clicked**
-        if st.session_state.get("fetch_data", False):
-            keywords_list = [kw.strip() for kw in keywords.split(",") if kw.strip()]
-
-            if keywords_list and source_types and display_languages:
-                with st.spinner("Fetching posts..."):
-                    # Set auth token for posts API
-                    fetch_auth_token()
-                    results_df = fetch_posts_data(keywords_list, selected_date, limit, source_types, display_languages)
-
-                if not results_df.empty:
-                    st.dataframe(results_df)  # Show data in a table
-                else:
-                    st.warning("No results found.")
-
-                # Reset flag after fetching
-                st.session_state["fetch_data"] = False
-            else:
-                st.warning("Please enter at least one keyword, select at least one source, and one language.")
 
 if __name__ == "__main__":
     main()

@@ -14,9 +14,6 @@ The dashboard consists of **three main pages**, each designed to address a speci
 2. **Logs**  
    - Displays logs collected from specific organizations, providing an overview of key activities and anomalies.
 
-3. **Posts**  
-   - Showcases posts about prominent cybersecurity threats, offering insights into trending topics and related discussions.
-
 ---
 
 ## Technology Stack
