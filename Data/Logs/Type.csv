@@ -1,0 +1,5 @@
+type_id,type
+0,suricata.eve
+1,suricata.alerts
+2,zeek
+3,windows

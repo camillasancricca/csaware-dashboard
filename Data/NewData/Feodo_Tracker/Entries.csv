@@ -1,0 +1,2 @@
+ID_ENTRY,source,ioc,ioc_type,threat_type,malware,first_seen,last_seen,reporter,reference,country
+0,Feodo Tracker,3.228.226.42:443,ip:port,botnet,QakBot,2024-11-13 18:45:49,2024-11-13,Feodo Tracker blocklist,https://feodotracker.abuse.ch/,US

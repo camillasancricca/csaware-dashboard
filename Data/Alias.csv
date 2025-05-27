@@ -1,0 +1,2712 @@
+malware,alias
+fakeupdates,fakeupdate
+cobalt strike,agentemis
+quasar rat,cinarat
+dcrat,darkcrystal rat
+orcus rat,schnorchel
+havoc,havokiz
+lumma stealer,lummac2 stealer
+mirai,katana
+loki password stealer  pws,burkina
+shadowpad,poisonplug shadow
+nanocore rat,nancrat
+qakbot,oakboat
+redline stealer,recordstealer
+warmcookie,badspace
+remcos,remcosrat
+azorult,puffstealer
+netsupportmanager rat,netsupport
+njrat,bladabindi
+ave maria,ave maria
+bumblebee,coldtrain
+coper,exobotcompact
+plugx,destroy rat
+ghost rat,farfli
+darkcomet,breut
+bashlite,gayfgt
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+satacom,legionloader
+sectoprat,1xxbot
+solarmarker,jupyter
+brute ratel c4,boldbadger
+fakeupdates,socgholish
+cobalt strike,beacon
+quasar rat,quasarrat
+loki password stealer  pws,loki
+shadowpad,xshellghost
+nanocore rat,nanocore
+qakbot,pinkslipbot
+warmcookie,quickbind
+remcos,remvio
+azorult,rultazo
+njrat,lime worm
+ave maria,avemariarat
+bumblebee,shellsting
+coper,octo
+plugx,kaba
+ghost rat,gh0st rat
+darkcomet,fynloski
+bashlite,gafgyt
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+sectoprat,arechclient
+solarmarker,polazert
+brute ratel c4,bruteratel
+cobalt strike,cobaltstrike
+quasar rat,yggdrasil
+loki password stealer  pws,lokibot
+qakbot,qbot
+remcos,socmer
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+ghost rat,pcrat
+darkcomet,klovbot
+bashlite,qbot
+gozi,papras
+latrodectus,latrodectus
+solarmarker,yellow cockatoo
+cobalt strike,cobeacon
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+bashlite,torlus
+gozi,snifula
+latrodectus,lotus
+ave maria,avemaria
+plugx,tigerplug
+bashlite,lizkebab
+gozi,ursnif
+plugx,reddelta
+bashlite,bashlite
+bianlian,bianlian
+warmcookie,warmcookie
+socks5 systemz,socks5 systemz
+blacknet rat,blacknet rat
+darkcomet,darkcomet
+gozi,gozi
+chalubo,chalubo
+havoc,havoc
+unknown malware,unknown malware
+fakeupdates,fakeupdates
+meduza stealer,meduza stealer
+gobrat,gobrat
+loki password stealer  pws,loki password stealer  pws
+kaiji,kaiji
+cobalt strike,cobalt strike
+venom rat,venom rat
+ares,ares
+smartloader,smartloader
+lightspy,lightspy
+lokibot,lokibot
+nanocore rat,nanocore rat
+netsupportmanager rat,netsupportmanager rat
+asyncrat,asyncrat
+empire downloader,empire downloader
+shadowpad,shadowpad
+lumma stealer,lumma stealer
+sliver,sliver
+blueshell,blueshell
+danabot,danabot
+poshc2,poshc2
+sectoprat,sectoprat
+northstar,northstar
+ermac,ermac
+orcus rat,orcus rat
+remcos,remcos
+copybara,copybara
+azorult,azorult
+rhadamanthys,rhadamanthys
+njrat,njrat
+solarmarker,solarmarker
+brute ratel c4,brute ratel c4
+pupy,pupy
+mozi,mozi
+hook,hook
+coper,coper
+vidar,vidar
+moobot,moobot
+stealc,stealc
+mirai,mirai
+bumblebee,bumblebee
+satacom,satacom
+ghost rat,ghost rat
+amadey,amadey
+qakbot,qakbot
+quasar rat,quasar rat
+scrubcrypt,scrubcrypt
+plugx,plugx
+nimplant,nimplant
+purecrypter,purecrypter
+gootloader,gootloader
+redline stealer,redline stealer
+dcrat,dcrat
+crimson rat,crimson rat
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+socks5 systemz,socks5systemz
+lumma stealer,lummastealer
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+remcos,exe remcosrat
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+asyncrat,asyncrat xworm
+remcos,remcosrat rev base64 loader
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+mirai,mirai mozi
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+lumma stealer,exe lummastealer
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+redline stealer,braodo stealer
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+brute ratel c4,bruteratel deu geofenced latrodectus msi
+brute ratel c4,bruteratel js latrodectus
+venom rat,venomrat
+mirai,mirai opendir sh
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai script
+cobalt strike,agenttesla
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+meduza stealer,meduza meduzastealer
+mirai,mirai opendir sh ua wget
+redline stealer,exe redlinestealer
+mirai,mirai sh
+mirai,mirai py
+mirai,mirai sh ua wget
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+azorult,infostealer
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+venom rat,xenorat
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+gootloader,guloader
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+cobalt strike,agenttesla exe
+brute ratel c4,bruteforce hacktool portscan tar
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+cobalt strike,cobaltstrike exe malware
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+scrubcrypt,script
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+latrodectus,backdoor
+smartloader,astraloader
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+mirai,mirai opendir sh ub8ehjsepafc9fyqzit6
+bumblebee,shellscript
+cobalt strike,cobaltstrike loki remcosrat
+cobalt strike,c2 cobaltstrike opendir
+asyncrat,asyncrat exe opendir
+cobalt strike,cobaltstrike dll github
+asyncrat,asyncrat docx
+asyncrat,asyncrat encoded exe rev base64 loader reverse base64
+cobalt strike,cobaltstrike hta remcosrat
+cobalt strike,cobaltstrike hta
+mirai,mirai shellscript
+bashlite,gafgyt sh
+asyncrat,asyncrat jasonrat
+bashlite,gafgyt sh ua wget
+asyncrat,asyncrat lop963 pw lop963
+amadey,amadey stealc
+cobalt strike,cobalt strike opendir
+cobalt strike,cobaltstrike opendir
+remcos,32 exe remcosrat
+mirai,mirai sh ua wget yakuza
+bianlian,bin
+amadey,amadey associated with amadey c2
+quasar rat,quasarrat redlinestealer
+asyncrat,asyncrat opendir rev base64 loader
+nanocore rat,nanocore opendir rev base64 loader
+asyncrat,asyncrat base64 rev base64 loader
+bumblebee,shell sliver
+lumma stealer,marsstealer
+redline stealer,redlinestealer reflectiveloader
+cobalt strike,cobalt strike metasploit opendir
+asyncrat,asyncrat bitbucket
+asyncrat,asyncrat growtopia
+asyncrat,asyncrat exe xclient
+netsupportmanager rat,exe netsupport
+amadey,amadey exe lummastealer marsstealer redlinestealer stealc
+asyncrat,asyncrat exe opendir xworm
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+lumma stealer,lumma lummastealer stealer
+nanocore rat,exe nanocore rat
+lumma stealer,lumma
+smartloader,smartapesg
+lumma stealer,canstealer
+hook,hookbuilder
+ghost rat,gh0strat
+solarmarker,yellowcockatoo
+meduza stealer,meduza
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+fakeupdates,fakeupdate
+cobalt strike,agentemis
+quasar rat,cinarat
+dcrat,darkcrystal rat
+orcus rat,schnorchel
+havoc,havokiz
+lumma stealer,lummac2 stealer
+mirai,katana
+loki password stealer  pws,burkina
+shadowpad,poisonplug shadow
+nanocore rat,nancrat
+qakbot,oakboat
+redline stealer,recordstealer
+warmcookie,badspace
+remcos,remcosrat
+azorult,puffstealer
+netsupportmanager rat,netsupport
+njrat,bladabindi
+ave maria,ave maria
+bumblebee,coldtrain
+coper,exobotcompact
+plugx,destroy rat
+ghost rat,farfli
+darkcomet,breut
+bashlite,gayfgt
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+satacom,legionloader
+sectoprat,1xxbot
+solarmarker,jupyter
+brute ratel c4,boldbadger
+fakeupdates,socgholish
+cobalt strike,beacon
+quasar rat,quasarrat
+loki password stealer  pws,loki
+shadowpad,xshellghost
+nanocore rat,nanocore
+qakbot,pinkslipbot
+warmcookie,quickbind
+remcos,remvio
+azorult,rultazo
+njrat,lime worm
+ave maria,avemariarat
+bumblebee,shellsting
+coper,octo
+plugx,kaba
+ghost rat,gh0st rat
+darkcomet,fynloski
+bashlite,gafgyt
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+sectoprat,arechclient
+solarmarker,polazert
+brute ratel c4,bruteratel
+cobalt strike,cobaltstrike
+quasar rat,yggdrasil
+loki password stealer  pws,lokibot
+qakbot,qbot
+remcos,socmer
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+ghost rat,pcrat
+darkcomet,klovbot
+bashlite,qbot
+gozi,papras
+latrodectus,latrodectus
+solarmarker,yellow cockatoo
+cobalt strike,cobeacon
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+bashlite,torlus
+gozi,snifula
+latrodectus,lotus
+ave maria,avemaria
+plugx,tigerplug
+bashlite,lizkebab
+gozi,ursnif
+plugx,reddelta
+bashlite,bashlite
+bianlian,bianlian
+warmcookie,warmcookie
+socks5 systemz,socks5 systemz
+blacknet rat,blacknet rat
+darkcomet,darkcomet
+gozi,gozi
+chalubo,chalubo
+havoc,havoc
+unknown malware,unknown malware
+fakeupdates,fakeupdates
+meduza stealer,meduza stealer
+gobrat,gobrat
+loki password stealer  pws,loki password stealer  pws
+kaiji,kaiji
+cobalt strike,cobalt strike
+venom rat,venom rat
+ares,ares
+smartloader,smartloader
+lightspy,lightspy
+lokibot,lokibot
+nanocore rat,nanocore rat
+netsupportmanager rat,netsupportmanager rat
+asyncrat,asyncrat
+empire downloader,empire downloader
+shadowpad,shadowpad
+lumma stealer,lumma stealer
+sliver,sliver
+blueshell,blueshell
+danabot,danabot
+poshc2,poshc2
+sectoprat,sectoprat
+northstar,northstar
+ermac,ermac
+orcus rat,orcus rat
+remcos,remcos
+copybara,copybara
+azorult,azorult
+rhadamanthys,rhadamanthys
+njrat,njrat
+solarmarker,solarmarker
+brute ratel c4,brute ratel c4
+pupy,pupy
+mozi,mozi
+hook,hook
+coper,coper
+vidar,vidar
+moobot,moobot
+stealc,stealc
+mirai,mirai
+bumblebee,bumblebee
+satacom,satacom
+ghost rat,ghost rat
+amadey,amadey
+qakbot,qakbot
+quasar rat,quasar rat
+scrubcrypt,scrubcrypt
+plugx,plugx
+nimplant,nimplant
+purecrypter,purecrypter
+gootloader,gootloader
+redline stealer,redline stealer
+dcrat,dcrat
+crimson rat,crimson rat
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+socks5 systemz,socks5systemz
+lumma stealer,lummastealer
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+remcos,exe remcosrat
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+asyncrat,asyncrat xworm
+remcos,remcosrat rev base64 loader
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+mirai,mirai mozi
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+lumma stealer,exe lummastealer
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+redline stealer,braodo stealer
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+brute ratel c4,bruteratel deu geofenced latrodectus msi
+brute ratel c4,bruteratel js latrodectus
+venom rat,venomrat
+mirai,mirai opendir sh
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai script
+cobalt strike,agenttesla
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+meduza stealer,meduza meduzastealer
+mirai,mirai opendir sh ua wget
+redline stealer,exe redlinestealer
+mirai,mirai sh
+mirai,mirai py
+mirai,mirai sh ua wget
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+azorult,infostealer
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+venom rat,xenorat
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+gootloader,guloader
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+cobalt strike,agenttesla exe
+brute ratel c4,bruteforce hacktool portscan tar
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+cobalt strike,cobaltstrike exe malware
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+scrubcrypt,script
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+latrodectus,backdoor
+smartloader,astraloader
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+mirai,mirai opendir sh ub8ehjsepafc9fyqzit6
+bumblebee,shellscript
+cobalt strike,cobaltstrike loki remcosrat
+cobalt strike,c2 cobaltstrike opendir
+asyncrat,asyncrat exe opendir
+cobalt strike,cobaltstrike dll github
+asyncrat,asyncrat docx
+asyncrat,asyncrat encoded exe rev base64 loader reverse base64
+cobalt strike,cobaltstrike hta remcosrat
+cobalt strike,cobaltstrike hta
+mirai,mirai shellscript
+bashlite,gafgyt sh
+asyncrat,asyncrat jasonrat
+bashlite,gafgyt sh ua wget
+asyncrat,asyncrat lop963 pw lop963
+amadey,amadey stealc
+cobalt strike,cobalt strike opendir
+cobalt strike,cobaltstrike opendir
+remcos,32 exe remcosrat
+mirai,mirai sh ua wget yakuza
+bianlian,bin
+amadey,amadey associated with amadey c2
+quasar rat,quasarrat redlinestealer
+asyncrat,asyncrat opendir rev base64 loader
+nanocore rat,nanocore opendir rev base64 loader
+asyncrat,asyncrat base64 rev base64 loader
+bumblebee,shell sliver
+lumma stealer,marsstealer
+redline stealer,redlinestealer reflectiveloader
+cobalt strike,cobalt strike metasploit opendir
+asyncrat,asyncrat bitbucket
+asyncrat,asyncrat growtopia
+asyncrat,asyncrat exe xclient
+netsupportmanager rat,exe netsupport
+amadey,amadey exe lummastealer marsstealer redlinestealer stealc
+asyncrat,asyncrat exe opendir xworm
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+lumma stealer,lumma lummastealer stealer
+nanocore rat,exe nanocore rat
+lumma stealer,lumma
+smartloader,smartapesg
+lumma stealer,canstealer
+hook,hookbuilder
+ghost rat,gh0strat
+solarmarker,yellowcockatoo
+meduza stealer,meduza
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+fakeupdates,fakeupdate
+cobalt strike,agentemis
+quasar rat,cinarat
+dcrat,darkcrystal rat
+orcus rat,schnorchel
+havoc,havokiz
+lumma stealer,lummac2 stealer
+mirai,katana
+loki password stealer  pws,burkina
+shadowpad,poisonplug shadow
+nanocore rat,nancrat
+qakbot,oakboat
+redline stealer,recordstealer
+warmcookie,badspace
+remcos,remcosrat
+azorult,puffstealer
+netsupportmanager rat,netsupport
+njrat,bladabindi
+ave maria,ave maria
+bumblebee,coldtrain
+coper,exobotcompact
+plugx,destroy rat
+ghost rat,farfli
+darkcomet,breut
+bashlite,gayfgt
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+satacom,legionloader
+sectoprat,1xxbot
+solarmarker,jupyter
+brute ratel c4,boldbadger
+fakeupdates,socgholish
+cobalt strike,beacon
+quasar rat,quasarrat
+loki password stealer  pws,loki
+shadowpad,xshellghost
+nanocore rat,nanocore
+qakbot,pinkslipbot
+warmcookie,quickbind
+remcos,remvio
+azorult,rultazo
+njrat,lime worm
+ave maria,avemariarat
+bumblebee,shellsting
+coper,octo
+plugx,kaba
+ghost rat,gh0st rat
+darkcomet,fynloski
+bashlite,gafgyt
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+sectoprat,arechclient
+solarmarker,polazert
+brute ratel c4,bruteratel
+cobalt strike,cobaltstrike
+quasar rat,yggdrasil
+loki password stealer  pws,lokibot
+qakbot,qbot
+remcos,socmer
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+ghost rat,pcrat
+darkcomet,klovbot
+bashlite,qbot
+gozi,papras
+latrodectus,latrodectus
+solarmarker,yellow cockatoo
+cobalt strike,cobeacon
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+bashlite,torlus
+gozi,snifula
+latrodectus,lotus
+ave maria,avemaria
+plugx,tigerplug
+bashlite,lizkebab
+gozi,ursnif
+plugx,reddelta
+nimplant,nimplant
+purecrypter,purecrypter
+gootloader,gootloader
+havoc,havoc
+netsupportmanager rat,netsupportmanager rat
+orcus rat,orcus rat
+sliver,sliver
+ghost rat,ghost rat
+remcos,remcos
+loki password stealer  pws,loki password stealer  pws
+lokibot,lokibot
+pupy,pupy
+gobrat,gobrat
+plugx,plugx
+stealc,stealc
+danabot,danabot
+vidar,vidar
+lightspy,lightspy
+unknown malware,unknown malware
+gozi,gozi
+bumblebee,bumblebee
+amadey,amadey
+quasar rat,quasar rat
+ermac,ermac
+hook,hook
+moobot,moobot
+rhadamanthys,rhadamanthys
+brute ratel c4,brute ratel c4
+poshc2,poshc2
+lumma stealer,lumma stealer
+satacom,satacom
+shadowpad,shadowpad
+redline stealer,redline stealer
+warmcookie,warmcookie
+socks5 systemz,socks5 systemz
+smartloader,smartloader
+coper,coper
+empire downloader,empire downloader
+sectoprat,sectoprat
+blueshell,blueshell
+venom rat,venom rat
+bianlian,bianlian
+blacknet rat,blacknet rat
+darkcomet,darkcomet
+copybara,copybara
+fakeupdates,fakeupdates
+bashlite,bashlite
+nanocore rat,nanocore rat
+cobalt strike,cobalt strike
+meduza stealer,meduza stealer
+njrat,njrat
+solarmarker,solarmarker
+mirai,mirai
+qakbot,qakbot
+northstar,northstar
+azorult,azorult
+crimson rat,crimson rat
+chalubo,chalubo
+mozi,mozi
+asyncrat,asyncrat
+scrubcrypt,scrubcrypt
+dcrat,dcrat
+kaiji,kaiji
+ares,ares
+lumma stealer,lummastealer
+mirai,mirai mozi
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+mirai,mirai opendir sh
+meduza stealer,meduza meduzastealer
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+socks5 systemz,socks5systemz
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+remcos,exe remcosrat
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+asyncrat,asyncrat xworm
+remcos,remcosrat rev base64 loader
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+lumma stealer,exe lummastealer
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+redline stealer,braodo stealer
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+brute ratel c4,bruteratel deu geofenced latrodectus msi
+brute ratel c4,bruteratel js latrodectus
+venom rat,venomrat
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai script
+cobalt strike,agenttesla
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+mirai,mirai opendir sh ua wget
+redline stealer,exe redlinestealer
+mirai,mirai sh
+mirai,mirai py
+mirai,mirai sh ua wget
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+azorult,infostealer
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+venom rat,xenorat
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+gootloader,guloader
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+cobalt strike,agenttesla exe
+brute ratel c4,bruteforce hacktool portscan tar
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+cobalt strike,cobaltstrike exe malware
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+scrubcrypt,script
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+latrodectus,backdoor
+smartloader,astraloader
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+mirai,mirai opendir sh ub8ehjsepafc9fyqzit6
+bumblebee,shellscript
+cobalt strike,cobaltstrike loki remcosrat
+cobalt strike,c2 cobaltstrike opendir
+asyncrat,asyncrat exe opendir
+cobalt strike,cobaltstrike dll github
+asyncrat,asyncrat docx
+asyncrat,asyncrat encoded exe rev base64 loader reverse base64
+cobalt strike,cobaltstrike hta remcosrat
+cobalt strike,cobaltstrike hta
+mirai,mirai shellscript
+bashlite,gafgyt sh
+asyncrat,asyncrat jasonrat
+bashlite,gafgyt sh ua wget
+asyncrat,asyncrat lop963 pw lop963
+amadey,amadey stealc
+cobalt strike,cobalt strike opendir
+cobalt strike,cobaltstrike opendir
+remcos,32 exe remcosrat
+mirai,mirai sh ua wget yakuza
+bianlian,bin
+amadey,amadey associated with amadey c2
+quasar rat,quasarrat redlinestealer
+asyncrat,asyncrat opendir rev base64 loader
+nanocore rat,nanocore opendir rev base64 loader
+asyncrat,asyncrat base64 rev base64 loader
+bumblebee,shell sliver
+lumma stealer,marsstealer
+redline stealer,redlinestealer reflectiveloader
+cobalt strike,cobalt strike metasploit opendir
+asyncrat,asyncrat bitbucket
+asyncrat,asyncrat growtopia
+asyncrat,asyncrat exe xclient
+netsupportmanager rat,exe netsupport
+amadey,amadey exe lummastealer marsstealer redlinestealer stealc
+asyncrat,asyncrat exe opendir xworm
+lumma stealer,lumma
+smartloader,smartapesg
+lumma stealer,canstealer
+hook,hookbuilder
+ghost rat,gh0strat
+solarmarker,yellowcockatoo
+meduza stealer,meduza
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+fakeupdates,fakeupdate
+mirai,katana
+dcrat,darkcrystal rat
+quasar rat,cinarat
+cobalt strike,agentemis
+njrat,bladabindi
+remcos,remcosrat
+lumma stealer,lummac2 stealer
+ghost rat,farfli
+shadowpad,poisonplug shadow
+havoc,havokiz
+orcus rat,schnorchel
+bashlite,gayfgt
+coper,exobotcompact
+n w0rm,nw0rm
+satacom,legionloader
+redline stealer,recordstealer
+pony,siplog
+loki password stealer  pws,burkina
+qakbot,oakboat
+amos,atomic macos stealer
+darkcomet,breut
+warmcookie,badspace
+netsupportmanager rat,netsupport
+sectoprat,1xxbot
+nanocore rat,nancrat
+azorult,puffstealer
+ave maria,ave maria
+bumblebee,coldtrain
+plugx,destroy rat
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+fakeupdates,socgholish
+quasar rat,quasarrat
+cobalt strike,beacon
+njrat,lime worm
+remcos,remvio
+ghost rat,gh0st rat
+shadowpad,xshellghost
+bashlite,gafgyt
+coper,octo
+n w0rm,nworm
+pony,fareit
+loki password stealer  pws,loki
+qakbot,pinkslipbot
+darkcomet,fynloski
+warmcookie,quickbind
+sectoprat,arechclient
+nanocore rat,nanocore
+azorult,rultazo
+ave maria,avemariarat
+bumblebee,shellsting
+plugx,kaba
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+quasar rat,yggdrasil
+cobalt strike,cobaltstrike
+remcos,socmer
+ghost rat,pcrat
+bashlite,qbot
+loki password stealer  pws,lokibot
+qakbot,qbot
+darkcomet,klovbot
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+gozi,papras
+latrodectus,latrodectus
+cobalt strike,cobeacon
+bashlite,torlus
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+gozi,snifula
+latrodectus,lotus
+bashlite,lizkebab
+ave maria,avemaria
+plugx,tigerplug
+gozi,ursnif
+plugx,reddelta
+octopus,octopus
+socks5 systemz,socks5 systemz
+njrat,njrat
+bumblebee,bumblebee
+whitesnake stealer,whitesnake stealer
+quasar rat,quasar rat
+dcrat,dcrat
+azorult,azorult
+ares,ares
+stealc,stealc
+ghost rat,ghost rat
+sectoprat,sectoprat
+n w0rm,n w0rm
+plugx,plugx
+wolfsbane,wolfsbane
+hook,hook
+bashlite,bashlite
+ahmyth,ahmyth
+gootloader,gootloader
+empire downloader,empire downloader
+unknown malware,unknown malware
+asyncrat,asyncrat
+lumma stealer,lumma stealer
+netsupportmanager rat,netsupportmanager rat
+tinyturla,tinyturla
+scrubcrypt,scrubcrypt
+phonk,phonk
+moobot,moobot
+xenorat,xenorat
+blacknet rat,blacknet rat
+crimson rat,crimson rat
+nanocore rat,nanocore rat
+warmcookie,warmcookie
+gomorrah stealer,gomorrah stealer
+nimplant,nimplant
+purecrypter,purecrypter
+vidar,vidar
+redline stealer,redline stealer
+coper,coper
+shadowpad,shadowpad
+havoc,havoc
+amadey,amadey
+darkcomet,darkcomet
+akira,akira
+copybara,copybara
+satacom,satacom
+bianlian,bianlian
+amos,amos
+sliver,sliver
+gozi,gozi
+mozi,mozi
+ermac,ermac
+lokibot,lokibot
+cobalt strike,cobalt strike
+poshc2,poshc2
+cryptbot,cryptbot
+kaiji,kaiji
+rhadamanthys,rhadamanthys
+bitrat,bitrat
+orcus rat,orcus rat
+chalubo,chalubo
+fakeupdates,fakeupdates
+northstar,northstar
+meduza stealer,meduza stealer
+loki password stealer  pws,loki password stealer  pws
+pony,pony
+danabot,danabot
+remcos,remcos
+mirai,mirai
+qakbot,qakbot
+venom rat,venom rat
+mirai,mirai mozi
+lumma stealer,lummastealer
+lumma stealer,lummastealer passwordprotected
+purecrypter,purelogstealer
+scrubcrypt,script
+vidar,c2 vidar
+mirai,mirai sh ua wget
+mirai,mirai opendir sh
+lumma stealer,lnk lummastealer
+remcos,exe remcosrat
+mirai,mirai script
+cobalt strike,agenttesla
+asyncrat,asyncrat xworm
+gootloader,guloader
+lumma stealer,lummastealer opendir
+asyncrat,asyncrat stormkitty
+redline stealer,exe redlinestealer
+bumblebee,shellscript
+lumma stealer,exe lummastealer
+asyncrat,asyncrat docx
+bitrat,bitrat stub
+njrat,njrat stub
+n w0rm,xworm
+sliver,sliver stealer
+lumma stealer,lummastealer xclient
+lumma stealer,lummastealer zip
+lumma stealer,lummastealer meduzastealer zip
+redline stealer,bat redlinestealer
+asyncrat,asyncrat bat
+azorult,infostealer
+dcrat,darkylock njrat ransomware
+dcrat,darkylock ransomware
+socks5 systemz,socks5systemz
+bashlite,gafgyt script
+cobalt strike,agenttesla exe
+fakeupdates,fake alert pdf
+amos,amos dmg macos redir 302 us safari
+amos,amos dmg macos redir 302 ua safari
+dcrat,dcrat neshta
+ahmyth,ahmyth apk  c2 l3mon manager
+meduza stealer,meduza meduzastealer
+njrat,njrat rev base64 loader trojan
+asyncrat,asyncrat paste ee rev base64 loader
+cobalt strike,agenttesla discordapp
+njrat,njrat opendir
+ave maria,avemariarat bitbucket
+amadey,amadey exe redlinestealer stealc
+amadey,amadey exe lummastealer redlinestealer stealc
+netsupportmanager rat,netsupport opendir
+cobalt strike,cobaltstrike opendir
+redline stealer,opendir stealer
+asyncrat,asyncrat bad service malware of spreading loads
+cobalt strike,cobaltstrike meterpreter
+amos,ascii lummastealer
+cobalt strike,cobaltstrike exe malware
+dcrat,dcrat exe github
+asyncrat,asyncrat base64 rev base64 loader
+amadey,amadey exe github
+cryptbot,cryptbot exe
+satacom,koiloader
+asyncrat,asyncrat client exe rat
+orcus rat,exe orcusrat
+bianlian,bin
+remcos,remcosrat rev base64 loader
+latrodectus,backdoor
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+n w0rm,vjw0rm
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+mirai,mirai opendir sh ua wget
+mirai,mirai sh
+mirai,mirai py
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+cryptbot,cryptbot gcleaner nymaim
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+n w0rm,worm
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+lumma stealer,lumma
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+pony,ponynet
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+bitrat,abstract
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+gomorrah stealer,gomorrah
+fakeupdates,fakeupdate
+mirai,katana
+dcrat,darkcrystal rat
+quasar rat,cinarat
+cobalt strike,agentemis
+njrat,bladabindi
+remcos,remcosrat
+lumma stealer,lummac2 stealer
+ghost rat,farfli
+shadowpad,poisonplug shadow
+havoc,havokiz
+orcus rat,schnorchel
+bashlite,gayfgt
+coper,exobotcompact
+n w0rm,nw0rm
+satacom,legionloader
+redline stealer,recordstealer
+pony,siplog
+loki password stealer  pws,burkina
+qakbot,oakboat
+amos,atomic macos stealer
+darkcomet,breut
+warmcookie,badspace
+netsupportmanager rat,netsupport
+sectoprat,1xxbot
+nanocore rat,nancrat
+azorult,puffstealer
+ave maria,ave maria
+bumblebee,coldtrain
+plugx,destroy rat
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+fakeupdates,socgholish
+quasar rat,quasarrat
+cobalt strike,beacon
+njrat,lime worm
+remcos,remvio
+ghost rat,gh0st rat
+shadowpad,xshellghost
+bashlite,gafgyt
+coper,octo
+n w0rm,nworm
+pony,fareit
+loki password stealer  pws,loki
+qakbot,pinkslipbot
+darkcomet,fynloski
+warmcookie,quickbind
+sectoprat,arechclient
+nanocore rat,nanocore
+azorult,rultazo
+ave maria,avemariarat
+bumblebee,shellsting
+plugx,kaba
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+quasar rat,yggdrasil
+cobalt strike,cobaltstrike
+remcos,socmer
+ghost rat,pcrat
+bashlite,qbot
+loki password stealer  pws,lokibot
+qakbot,qbot
+darkcomet,klovbot
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+gozi,papras
+latrodectus,latrodectus
+cobalt strike,cobeacon
+bashlite,torlus
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+gozi,snifula
+latrodectus,lotus
+bashlite,lizkebab
+ave maria,avemaria
+plugx,tigerplug
+gozi,ursnif
+plugx,reddelta
+octopus,octopus
+socks5 systemz,socks5 systemz
+njrat,njrat
+bumblebee,bumblebee
+whitesnake stealer,whitesnake stealer
+quasar rat,quasar rat
+dcrat,dcrat
+azorult,azorult
+ares,ares
+stealc,stealc
+ghost rat,ghost rat
+sectoprat,sectoprat
+n w0rm,n w0rm
+plugx,plugx
+wolfsbane,wolfsbane
+hook,hook
+bashlite,bashlite
+ahmyth,ahmyth
+gootloader,gootloader
+empire downloader,empire downloader
+unknown malware,unknown malware
+asyncrat,asyncrat
+lumma stealer,lumma stealer
+netsupportmanager rat,netsupportmanager rat
+tinyturla,tinyturla
+scrubcrypt,scrubcrypt
+phonk,phonk
+moobot,moobot
+xenorat,xenorat
+blacknet rat,blacknet rat
+crimson rat,crimson rat
+nanocore rat,nanocore rat
+warmcookie,warmcookie
+gomorrah stealer,gomorrah stealer
+nimplant,nimplant
+purecrypter,purecrypter
+vidar,vidar
+redline stealer,redline stealer
+coper,coper
+shadowpad,shadowpad
+havoc,havoc
+amadey,amadey
+darkcomet,darkcomet
+akira,akira
+copybara,copybara
+satacom,satacom
+bianlian,bianlian
+amos,amos
+sliver,sliver
+gozi,gozi
+mozi,mozi
+ermac,ermac
+lokibot,lokibot
+cobalt strike,cobalt strike
+poshc2,poshc2
+cryptbot,cryptbot
+kaiji,kaiji
+rhadamanthys,rhadamanthys
+bitrat,bitrat
+orcus rat,orcus rat
+chalubo,chalubo
+fakeupdates,fakeupdates
+northstar,northstar
+meduza stealer,meduza stealer
+loki password stealer  pws,loki password stealer  pws
+pony,pony
+danabot,danabot
+remcos,remcos
+mirai,mirai
+qakbot,qakbot
+venom rat,venom rat
+mirai,mirai mozi
+lumma stealer,lummastealer
+lumma stealer,lummastealer passwordprotected
+purecrypter,purelogstealer
+scrubcrypt,script
+vidar,c2 vidar
+mirai,mirai sh ua wget
+mirai,mirai opendir sh
+lumma stealer,lnk lummastealer
+remcos,exe remcosrat
+mirai,mirai script
+cobalt strike,agenttesla
+asyncrat,asyncrat xworm
+gootloader,guloader
+lumma stealer,lummastealer opendir
+asyncrat,asyncrat stormkitty
+redline stealer,exe redlinestealer
+bumblebee,shellscript
+lumma stealer,exe lummastealer
+asyncrat,asyncrat docx
+bitrat,bitrat stub
+njrat,njrat stub
+n w0rm,xworm
+sliver,sliver stealer
+lumma stealer,lummastealer xclient
+lumma stealer,lummastealer zip
+lumma stealer,lummastealer meduzastealer zip
+redline stealer,bat redlinestealer
+asyncrat,asyncrat bat
+azorult,infostealer
+dcrat,darkylock njrat ransomware
+dcrat,darkylock ransomware
+socks5 systemz,socks5systemz
+bashlite,gafgyt script
+cobalt strike,agenttesla exe
+fakeupdates,fake alert pdf
+amos,amos dmg macos redir 302 us safari
+amos,amos dmg macos redir 302 ua safari
+dcrat,dcrat neshta
+ahmyth,ahmyth apk  c2 l3mon manager
+meduza stealer,meduza meduzastealer
+njrat,njrat rev base64 loader trojan
+asyncrat,asyncrat paste ee rev base64 loader
+cobalt strike,agenttesla discordapp
+njrat,njrat opendir
+ave maria,avemariarat bitbucket
+amadey,amadey exe redlinestealer stealc
+amadey,amadey exe lummastealer redlinestealer stealc
+netsupportmanager rat,netsupport opendir
+cobalt strike,cobaltstrike opendir
+redline stealer,opendir stealer
+asyncrat,asyncrat bad service malware of spreading loads
+cobalt strike,cobaltstrike meterpreter
+amos,ascii lummastealer
+cobalt strike,cobaltstrike exe malware
+dcrat,dcrat exe github
+asyncrat,asyncrat base64 rev base64 loader
+amadey,amadey exe github
+cryptbot,cryptbot exe
+satacom,koiloader
+asyncrat,asyncrat client exe rat
+orcus rat,exe orcusrat
+bianlian,bin
+remcos,remcosrat rev base64 loader
+latrodectus,backdoor
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+n w0rm,vjw0rm
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+mirai,mirai opendir sh ua wget
+mirai,mirai sh
+mirai,mirai py
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+cryptbot,cryptbot gcleaner nymaim
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+n w0rm,worm
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+lumma stealer,lumma
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+pony,ponynet
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+bitrat,abstract
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+gomorrah stealer,gomorrah
+fakeupdates,fakeupdate
+mirai,katana
+dcrat,darkcrystal rat
+quasar rat,cinarat
+cobalt strike,agentemis
+njrat,bladabindi
+remcos,remcosrat
+lumma stealer,lummac2 stealer
+ghost rat,farfli
+shadowpad,poisonplug shadow
+havoc,havokiz
+orcus rat,schnorchel
+bashlite,gayfgt
+coper,exobotcompact
+n w0rm,nw0rm
+satacom,legionloader
+redline stealer,recordstealer
+pony,siplog
+loki password stealer  pws,burkina
+qakbot,oakboat
+amos,atomic macos stealer
+darkcomet,breut
+warmcookie,badspace
+netsupportmanager rat,netsupport
+sectoprat,1xxbot
+nanocore rat,nancrat
+azorult,puffstealer
+ave maria,ave maria
+bumblebee,coldtrain
+plugx,destroy rat
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+fakeupdates,socgholish
+quasar rat,quasarrat
+cobalt strike,beacon
+njrat,lime worm
+remcos,remvio
+ghost rat,gh0st rat
+shadowpad,xshellghost
+bashlite,gafgyt
+coper,octo
+n w0rm,nworm
+pony,fareit
+loki password stealer  pws,loki
+qakbot,pinkslipbot
+darkcomet,fynloski
+warmcookie,quickbind
+sectoprat,arechclient
+nanocore rat,nanocore
+azorult,rultazo
+ave maria,avemariarat
+bumblebee,shellsting
+plugx,kaba
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+quasar rat,yggdrasil
+cobalt strike,cobaltstrike
+remcos,socmer
+ghost rat,pcrat
+bashlite,qbot
+loki password stealer  pws,lokibot
+qakbot,qbot
+darkcomet,klovbot
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+gozi,papras
+latrodectus,latrodectus
+cobalt strike,cobeacon
+bashlite,torlus
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+gozi,snifula
+latrodectus,lotus
+bashlite,lizkebab
+ave maria,avemaria
+plugx,tigerplug
+gozi,ursnif
+plugx,reddelta
+cryptbot,cryptbot
+satacom,satacom
+meduza stealer,meduza stealer
+amos,amos
+bitrat,bitrat
+warmcookie,warmcookie
+nanocore rat,nanocore rat
+redline stealer,redline stealer
+unknown malware,unknown malware
+coper,coper
+loki password stealer  pws,loki password stealer  pws
+stealc,stealc
+bumblebee,bumblebee
+pony,pony
+rhadamanthys,rhadamanthys
+socks5 systemz,socks5 systemz
+crimson rat,crimson rat
+sliver,sliver
+plugx,plugx
+bashlite,bashlite
+akira,akira
+sectoprat,sectoprat
+copybara,copybara
+ares,ares
+poshc2,poshc2
+northstar,northstar
+ghost rat,ghost rat
+orcus rat,orcus rat
+gozi,gozi
+vidar,vidar
+dcrat,dcrat
+venom rat,venom rat
+mirai,mirai
+phonk,phonk
+amadey,amadey
+azorult,azorult
+empire downloader,empire downloader
+njrat,njrat
+netsupportmanager rat,netsupportmanager rat
+tinyturla,tinyturla
+ermac,ermac
+kaiji,kaiji
+asyncrat,asyncrat
+ahmyth,ahmyth
+hook,hook
+nimplant,nimplant
+gootloader,gootloader
+shadowpad,shadowpad
+darkcomet,darkcomet
+lumma stealer,lumma stealer
+lokibot,lokibot
+chalubo,chalubo
+xenorat,xenorat
+scrubcrypt,scrubcrypt
+whitesnake stealer,whitesnake stealer
+gomorrah stealer,gomorrah stealer
+fakeupdates,fakeupdates
+cobalt strike,cobalt strike
+moobot,moobot
+octopus,octopus
+remcos,remcos
+havoc,havoc
+quasar rat,quasar rat
+qakbot,qakbot
+danabot,danabot
+wolfsbane,wolfsbane
+n w0rm,n w0rm
+purecrypter,purecrypter
+bianlian,bianlian
+blacknet rat,blacknet rat
+mozi,mozi
+mirai,mirai mozi
+lumma stealer,lummastealer
+lumma stealer,lummastealer passwordprotected
+purecrypter,purelogstealer
+scrubcrypt,script
+vidar,c2 vidar
+mirai,mirai sh ua wget
+mirai,mirai opendir sh
+lumma stealer,lnk lummastealer
+remcos,exe remcosrat
+mirai,mirai script
+cobalt strike,agenttesla
+asyncrat,asyncrat xworm
+gootloader,guloader
+lumma stealer,lummastealer opendir
+asyncrat,asyncrat stormkitty
+redline stealer,exe redlinestealer
+bumblebee,shellscript
+lumma stealer,exe lummastealer
+asyncrat,asyncrat docx
+bitrat,bitrat stub
+njrat,njrat stub
+n w0rm,xworm
+sliver,sliver stealer
+lumma stealer,lummastealer xclient
+lumma stealer,lummastealer zip
+lumma stealer,lummastealer meduzastealer zip
+redline stealer,bat redlinestealer
+asyncrat,asyncrat bat
+azorult,infostealer
+dcrat,darkylock njrat ransomware
+dcrat,darkylock ransomware
+socks5 systemz,socks5systemz
+bashlite,gafgyt script
+cobalt strike,agenttesla exe
+fakeupdates,fake alert pdf
+amos,amos dmg macos redir 302 us safari
+amos,amos dmg macos redir 302 ua safari
+dcrat,dcrat neshta
+ahmyth,ahmyth apk  c2 l3mon manager
+meduza stealer,meduza meduzastealer
+njrat,njrat rev base64 loader trojan
+asyncrat,asyncrat paste ee rev base64 loader
+cobalt strike,agenttesla discordapp
+njrat,njrat opendir
+ave maria,avemariarat bitbucket
+amadey,amadey exe redlinestealer stealc
+amadey,amadey exe lummastealer redlinestealer stealc
+netsupportmanager rat,netsupport opendir
+cobalt strike,cobaltstrike opendir
+redline stealer,opendir stealer
+asyncrat,asyncrat bad service malware of spreading loads
+cobalt strike,cobaltstrike meterpreter
+amos,ascii lummastealer
+cobalt strike,cobaltstrike exe malware
+dcrat,dcrat exe github
+asyncrat,asyncrat base64 rev base64 loader
+amadey,amadey exe github
+cryptbot,cryptbot exe
+satacom,koiloader
+asyncrat,asyncrat client exe rat
+orcus rat,exe orcusrat
+bianlian,bin
+remcos,remcosrat rev base64 loader
+latrodectus,backdoor
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+n w0rm,vjw0rm
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+mirai,mirai opendir sh ua wget
+mirai,mirai sh
+mirai,mirai py
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+cryptbot,cryptbot gcleaner nymaim
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+n w0rm,worm
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+lumma stealer,lumma
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+pony,ponynet
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+bitrat,abstract
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+gomorrah stealer,gomorrah
+fakeupdates,fakeupdate
+mirai,katana
+dcrat,darkcrystal rat
+quasar rat,cinarat
+cobalt strike,agentemis
+njrat,bladabindi
+remcos,remcosrat
+lumma stealer,lummac2 stealer
+ghost rat,farfli
+shadowpad,poisonplug shadow
+havoc,havokiz
+orcus rat,schnorchel
+bashlite,gayfgt
+coper,exobotcompact
+n w0rm,nw0rm
+satacom,legionloader
+redline stealer,recordstealer
+pony,siplog
+loki password stealer  pws,burkina
+qakbot,oakboat
+amos,atomic macos stealer
+darkcomet,breut
+warmcookie,badspace
+netsupportmanager rat,netsupport
+sectoprat,1xxbot
+nanocore rat,nancrat
+azorult,puffstealer
+ave maria,ave maria
+bumblebee,coldtrain
+plugx,destroy rat
+gootloader,slowpour
+gozi,crm
+chalubo,chachaddos
+latrodectus,blackwidow
+crimson rat,seedoor
+fakeupdates,socgholish
+quasar rat,quasarrat
+cobalt strike,beacon
+njrat,lime worm
+remcos,remvio
+ghost rat,gh0st rat
+shadowpad,xshellghost
+bashlite,gafgyt
+coper,octo
+n w0rm,nworm
+pony,fareit
+loki password stealer  pws,loki
+qakbot,pinkslipbot
+darkcomet,fynloski
+warmcookie,quickbind
+sectoprat,arechclient
+nanocore rat,nanocore
+azorult,rultazo
+ave maria,avemariarat
+bumblebee,shellsting
+plugx,kaba
+gozi,gozi crm
+latrodectus,icenova
+crimson rat,scarimson
+quasar rat,yggdrasil
+cobalt strike,cobaltstrike
+remcos,socmer
+ghost rat,pcrat
+bashlite,qbot
+loki password stealer  pws,lokibot
+qakbot,qbot
+darkcomet,klovbot
+ave maria,warzone rat
+bumblebee,shindig
+plugx,korplug
+gozi,papras
+latrodectus,latrodectus
+cobalt strike,cobeacon
+bashlite,torlus
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,sogu
+gozi,snifula
+latrodectus,lotus
+bashlite,lizkebab
+ave maria,avemaria
+plugx,tigerplug
+gozi,ursnif
+plugx,reddelta
+cryptbot,cryptbot
+satacom,satacom
+meduza stealer,meduza stealer
+amos,amos
+bitrat,bitrat
+warmcookie,warmcookie
+nanocore rat,nanocore rat
+redline stealer,redline stealer
+unknown malware,unknown malware
+coper,coper
+loki password stealer  pws,loki password stealer  pws
+stealc,stealc
+bumblebee,bumblebee
+pony,pony
+rhadamanthys,rhadamanthys
+socks5 systemz,socks5 systemz
+crimson rat,crimson rat
+sliver,sliver
+plugx,plugx
+bashlite,bashlite
+akira,akira
+sectoprat,sectoprat
+copybara,copybara
+ares,ares
+poshc2,poshc2
+northstar,northstar
+ghost rat,ghost rat
+orcus rat,orcus rat
+gozi,gozi
+vidar,vidar
+dcrat,dcrat
+venom rat,venom rat
+mirai,mirai
+phonk,phonk
+amadey,amadey
+azorult,azorult
+empire downloader,empire downloader
+njrat,njrat
+netsupportmanager rat,netsupportmanager rat
+tinyturla,tinyturla
+ermac,ermac
+kaiji,kaiji
+asyncrat,asyncrat
+ahmyth,ahmyth
+hook,hook
+nimplant,nimplant
+gootloader,gootloader
+shadowpad,shadowpad
+darkcomet,darkcomet
+lumma stealer,lumma stealer
+lokibot,lokibot
+chalubo,chalubo
+xenorat,xenorat
+scrubcrypt,scrubcrypt
+whitesnake stealer,whitesnake stealer
+gomorrah stealer,gomorrah stealer
+fakeupdates,fakeupdates
+cobalt strike,cobalt strike
+moobot,moobot
+octopus,octopus
+remcos,remcos
+havoc,havoc
+quasar rat,quasar rat
+qakbot,qakbot
+danabot,danabot
+wolfsbane,wolfsbane
+n w0rm,n w0rm
+purecrypter,purecrypter
+bianlian,bianlian
+blacknet rat,blacknet rat
+mozi,mozi
+mirai,mirai mozi
+lumma stealer,lummastealer
+lumma stealer,lummastealer passwordprotected
+purecrypter,purelogstealer
+scrubcrypt,script
+vidar,c2 vidar
+mirai,mirai sh ua wget
+mirai,mirai opendir sh
+lumma stealer,lnk lummastealer
+remcos,exe remcosrat
+mirai,mirai script
+cobalt strike,agenttesla
+asyncrat,asyncrat xworm
+gootloader,guloader
+lumma stealer,lummastealer opendir
+asyncrat,asyncrat stormkitty
+redline stealer,exe redlinestealer
+bumblebee,shellscript
+lumma stealer,exe lummastealer
+asyncrat,asyncrat docx
+bitrat,bitrat stub
+njrat,njrat stub
+n w0rm,xworm
+sliver,sliver stealer
+lumma stealer,lummastealer xclient
+lumma stealer,lummastealer zip
+lumma stealer,lummastealer meduzastealer zip
+redline stealer,bat redlinestealer
+asyncrat,asyncrat bat
+azorult,infostealer
+dcrat,darkylock njrat ransomware
+dcrat,darkylock ransomware
+socks5 systemz,socks5systemz
+bashlite,gafgyt script
+cobalt strike,agenttesla exe
+fakeupdates,fake alert pdf
+amos,amos dmg macos redir 302 us safari
+amos,amos dmg macos redir 302 ua safari
+dcrat,dcrat neshta
+ahmyth,ahmyth apk  c2 l3mon manager
+meduza stealer,meduza meduzastealer
+njrat,njrat rev base64 loader trojan
+asyncrat,asyncrat paste ee rev base64 loader
+cobalt strike,agenttesla discordapp
+njrat,njrat opendir
+ave maria,avemariarat bitbucket
+amadey,amadey exe redlinestealer stealc
+amadey,amadey exe lummastealer redlinestealer stealc
+netsupportmanager rat,netsupport opendir
+cobalt strike,cobaltstrike opendir
+redline stealer,opendir stealer
+asyncrat,asyncrat bad service malware of spreading loads
+cobalt strike,cobaltstrike meterpreter
+amos,ascii lummastealer
+cobalt strike,cobaltstrike exe malware
+dcrat,dcrat exe github
+asyncrat,asyncrat base64 rev base64 loader
+amadey,amadey exe github
+cryptbot,cryptbot exe
+satacom,koiloader
+asyncrat,asyncrat client exe rat
+orcus rat,exe orcusrat
+bianlian,bin
+remcos,remcosrat rev base64 loader
+latrodectus,backdoor
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+asyncrat,asyncrat exe
+quasar rat,exe quasarrat
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,exe rhadamanthys
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+n w0rm,vjw0rm
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+mirai,mirai opendir sh ua wget
+mirai,mirai sh
+mirai,mirai py
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+cryptbot,cryptbot gcleaner nymaim
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+azorult,py stealer
+remcos,hta remcosrat
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike exe
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+fakeupdates,fakecaptcha lummastealer
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+n w0rm,worm
+ghost rat,gh0strat keylogger
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,jar lummastealer
+amadey,32 amadey exe
+lumma stealer,lumma
+redline stealer,rilidestealer
+stealc,stealerinfra
+blacknet rat,blacknetrat
+pony,ponynet
+gootloader,google
+ghost rat,hostart
+netsupportmanager rat,netsolutions
+asyncrat,asnet
+shadowpad,shaw
+bitrat,abstract
+gootloader,loader
+mirai,kamatera
+redline stealer,redline
+loki password stealer  pws,burnsrat
+gomorrah stealer,gomorrah
+lumma stealer,lummac2 stealer
+fakeupdates,fakeupdate
+remcos,remcosrat
+coper,exobotcompact
+redline stealer,recordstealer
+dcrat,darkcrystal rat
+satacom,legionloader
+cobalt strike,agentemis
+havoc,havokiz
+quasar rat,cinarat
+shadowpad,poisonplug shadow
+darkcomet,breut
+njrat,bladabindi
+plugx,destroy rat
+bashlite,gayfgt
+phorpiex,trik
+mirai,katana
+ghost rat,farfli
+orcus rat,schnorchel
+n w0rm,nw0rm
+pony,siplog
+loki password stealer  pws,burkina
+qakbot,oakboat
+amos,atomic macos stealer
+warmcookie,badspace
+netsupportmanager rat,netsupport
+sectoprat,1xxbot
+nanocore rat,nancrat
+azorult,puffstealer
+ave maria,ave maria
+bumblebee,coldtrain
+fakeupdates,socgholish
+remcos,remvio
+coper,octo
+cobalt strike,beacon
+quasar rat,quasarrat
+shadowpad,xshellghost
+darkcomet,fynloski
+njrat,lime worm
+plugx,kaba
+bashlite,gafgyt
+phorpiex,phorphiex
+ghost rat,gh0st rat
+n w0rm,nworm
+pony,fareit
+loki password stealer  pws,loki
+qakbot,pinkslipbot
+warmcookie,quickbind
+sectoprat,arechclient
+nanocore rat,nanocore
+azorult,rultazo
+ave maria,avemariarat
+bumblebee,shellsting
+remcos,socmer
+cobalt strike,cobaltstrike
+quasar rat,yggdrasil
+darkcomet,klovbot
+plugx,korplug
+bashlite,qbot
+ghost rat,pcrat
+loki password stealer  pws,lokibot
+qakbot,qbot
+ave maria,warzone rat
+bumblebee,shindig
+cobalt strike,cobeacon
+plugx,sogu
+bashlite,torlus
+loki password stealer  pws,lokipws
+qakbot,quakbot
+ave maria,warzonerat
+plugx,tigerplug
+bashlite,lizkebab
+ave maria,avemaria
+plugx,reddelta
+dcrat,dcrat
+vidar,vidar
+satacom,satacom
+akira,akira
+plugx,plugx
+rhadamanthys,rhadamanthys
+n w0rm,n w0rm
+gomorrah stealer,gomorrah stealer
+warmcookie,warmcookie
+meduza stealer,meduza stealer
+orcus rat,orcus rat
+pony,pony
+nanocore rat,nanocore rat
+reverserat,reverserat
+lumma stealer,lumma stealer
+lokibot,lokibot
+fakeupdates,fakeupdates
+purecrypter,purecrypter
+njrat,njrat
+cryptbot,cryptbot
+danabot,danabot
+ahmyth,ahmyth
+nimplant,nimplant
+remcos,remcos
+sliver,sliver
+moobot,moobot
+bianlian,bianlian
+panda stealer,panda stealer
+asyncrat,asyncrat
+hook,hook
+amos,amos
+tinyturla,tinyturla
+havoc,havoc
+unknown malware,unknown malware
+ghost rat,ghost rat
+xworm,xworm
+phonk,phonk
+ermac,ermac
+bashlite,bashlite
+venom rat,venom rat
+loki password stealer  pws,loki password stealer  pws
+mozi,mozi
+netsupportmanager rat,netsupportmanager rat
+quasar rat,quasar rat
+kaiji,kaiji
+sectoprat,sectoprat
+whitesnake stealer,whitesnake stealer
+qakbot,qakbot
+amadey,amadey
+scrubcrypt,scrubcrypt
+cobalt strike,cobalt strike
+copybara,copybara
+bumblebee,bumblebee
+stealc,stealc
+octopus,octopus
+socks5 systemz,socks5 systemz
+shadowpad,shadowpad
+azorult,azorult
+mirai,mirai
+xenorat,xenorat
+coper,coper
+redline stealer,redline stealer
+bitrat,bitrat
+wolfsbane,wolfsbane
+darkcomet,darkcomet
+phorpiex,phorpiex
+ave maria,avemariarat exe rat
+lumma stealer,lummastealer pw 7788
+njrat,njrat opendir
+ghost rat,hta rat
+lumma stealer,lummastealer
+remcos,hta remcosrat
+mirai,mirai mozi
+mirai,mirai rebirth botnet rebirthbotnet
+mirai,mirai sh ua wget
+netsupportmanager rat,netsupport netsupportrat smartapesg zip
+rhadamanthys,exe rhadamanthys
+remcos,exe remcosrat
+lumma stealer,exe lummastealer
+asyncrat,asyncrat exe
+dcrat,dcrat infostealer
+asyncrat,asyncrat formbook
+cobalt strike,agenttesla autoinject
+panda stealer,pandastealer
+cobalt strike,cobaltstrike exe
+cobalt strike,agenttesla exe
+qakbot,zharkbot
+dcrat,dcrat exe
+remcos,remcosrat rev base64 loader
+remcos,doc remcosrat
+lumma stealer,lummastealer passwordprotected
+purecrypter,purelogstealer
+scrubcrypt,script
+vidar,c2 vidar
+mirai,mirai opendir sh
+lumma stealer,lnk lummastealer
+mirai,mirai script
+cobalt strike,agenttesla
+asyncrat,asyncrat xworm
+redline stealer,redlinestealer snakekeylogger
+lumma stealer,lummastealer opendir
+asyncrat,asyncrat stormkitty
+redline stealer,exe redlinestealer
+bumblebee,shellscript
+asyncrat,asyncrat docx
+bitrat,bitrat stub
+njrat,njrat stub
+sliver,sliver stealer
+lumma stealer,lummastealer xclient
+lumma stealer,lummastealer zip
+lumma stealer,lummastealer meduzastealer zip
+redline stealer,bat redlinestealer
+asyncrat,asyncrat bat
+azorult,infostealer
+dcrat,darkylock njrat ransomware
+dcrat,darkylock ransomware
+socks5 systemz,socks5systemz
+bashlite,gafgyt script
+fakeupdates,fake alert pdf
+amos,amos dmg macos redir 302 us safari
+amos,amos dmg macos redir 302 ua safari
+dcrat,dcrat neshta
+ahmyth,ahmyth apk  c2 l3mon manager
+meduza stealer,meduza meduzastealer
+njrat,njrat rev base64 loader trojan
+asyncrat,asyncrat paste ee rev base64 loader
+cobalt strike,agenttesla discordapp
+ave maria,avemariarat bitbucket
+amadey,amadey exe redlinestealer stealc
+amadey,amadey exe lummastealer redlinestealer stealc
+netsupportmanager rat,netsupport opendir
+cobalt strike,cobaltstrike opendir
+redline stealer,opendir stealer
+asyncrat,asyncrat bad service malware of spreading loads
+cobalt strike,cobaltstrike meterpreter
+amos,ascii lummastealer
+cobalt strike,cobaltstrike exe malware
+dcrat,dcrat exe github
+asyncrat,asyncrat base64 rev base64 loader
+amadey,amadey exe github
+asyncrat,asyncrat cryptbot exe
+cryptbot,cryptbot exe
+satacom,koiloader
+asyncrat,asyncrat client exe rat
+orcus rat,exe orcusrat
+bianlian,bin
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader reversed
+quasar rat,exe quasarrat
+rhadamanthys,rhadamanthys spam ita
+loki password stealer  pws,loki remcosrat
+rhadamanthys,lnk rhadamanthys
+azorult,pif stealer
+cobalt strike,cobaltstrike shellcode
+loki password stealer  pws,loki remcosrat rev base64 loader
+mirai,mirai ua wget
+bumblebee,bumblebee msi
+bumblebee,bumblebee lnk zip
+netsupportmanager rat,netsupportrat smartapesg zip
+bashlite,bash wget
+asyncrat,asyncrat iso
+remcos,rat remcosrat
+asyncrat,asyncrat exe xworm
+asyncrat,asyncrat purecrypter
+lumma stealer,lummastealer rhadamanthys
+n w0rm,vjw0rm
+stealc,stealer trojan
+asyncrat,asyncrat pw qau741 qau741
+mirai,mirai sh sora
+bashlite,gafgyt sc on sh snype
+mirai,mirai sh webserverpirata
+mirai,mirai opendir sh ua wget
+mirai,mirai sh
+mirai,mirai py
+darkcomet,darkgate
+asyncrat,asyncrat opendir
+fakeupdates,fakeupdate lnk ua wget
+asyncrat,asyncrat exe github
+cryptbot,cryptbot gcleaner nymaim
+asyncrat,asyncrat cryptbot
+asyncrat,asyncrat hg71yg3 pw hg71yg3
+bashlite,gafgyt mirai
+cobalt strike,cobaltstrike exe opendir
+cobalt strike,cobalt strike cobaltstrike exe opendir
+mirai,mirai py ua wget
+azorult,py stealer
+asyncrat,asyncrat mac741 pw mac741
+quasar rat,exe quasarrat zip
+kaiji,kaiji opendir sh
+asyncrat,asyncrat g2024fg pw g2024fg
+asyncrat,asyncrat gy73vf5 pw gy73vf5
+asyncrat,asyncrat python zip
+asyncrat,asyncrat python strelastealer zip
+bumblebee,sh
+asyncrat,asyncrat pw tup875 tup875
+asyncrat,asyncrat rev base64 loader
+njrat,njrat rev base64 loader
+asyncrat,asyncrat gt63fr4 pw gt63fr4
+remcos,remcos remcosrat vbs
+sectoprat,arechclient2
+lumma stealer,lummastealer meduzastealer
+redline stealer,encoded stealer
+asyncrat,asyncrat base64 encoded exe rev base64 loader
+asyncrat,asyncrat base64 bitbucket encoded exe rev base64 loader
+asyncrat,asyncrat opendir vbs
+remcos,rat remcos vbs
+havoc,hta loki
+cobalt strike,agenttesla hta
+asyncrat,asyncrat multas2024 pw multas2024
+asyncrat,asyncrat fiscalia2024 pw fiscalia2024
+sliver,silverfox
+cobalt strike,cobaltstrike malware
+cobalt strike,cobaltstrike malware opendir
+asyncrat,asyncrat pw gt79df3
+ghost rat,gh0strat malware open dir
+danabot,danabot malware open dir
+cobalt strike,cobalt strike malware open dir
+asyncrat,asyncrat pw 12nov2024esm svg
+asyncrat,asyncrat pw 06nov2024esm svg
+asyncrat,asyncrat pw 07nov2024esm svg
+asyncrat,asyncrat pw 05nov2024esm svg
+asyncrat,asyncrat pw 29oct2024esm svg
+fakeupdates,fakecaptcha lummastealer
+reverserat,dlr webserverpirata
+mirai,mirai opendir sh webserverpirata
+rhadamanthys,js rhadamanthys
+asyncrat,asyncrat wsgidav xworm
+asyncrat,asyncrat strelastealer wsgidav xworm
+asyncrat,asyncrat strelastealer xworm
+mirai,mirai perl py tsunami webserverpirata
+mirai,mirai opendir sh webserverpirata yakuza
+asyncrat,asyncrat pw lop852
+lumma stealer,lumma zip
+cobalt strike,cobaltstrike ua wget
+lumma stealer,lummastealer rel1gitiger cyou
+bashlite,gafgyt isis opendir sh
+cobalt strike,agenttesla vbs
+netsupportmanager rat,netsupport netsupportmodules netsupportrat netsupportratmodules zip
+asyncrat,asyncrat pw xcv321 xcv321
+bashlite,gafgyt sc on sh
+dcrat,dcrat opendir
+ghost rat,gh0strat keylogger
+asyncrat,asyncrat formbook xworm
+bashlite,gafgyt ua wget
+stealc,stealc vidar
+amadey,amadey strelastealer
+asyncrat,asyncrat rev base64 loader txt
+nanocore rat,nanocore rev base64 loader txt
+loki password stealer  pws,loki rev base64 loader
+lumma stealer,lumma
+pony,ponynet
+bitrat,abstract
+loki password stealer  pws,burnsrat
+redline stealer,redline
+gomorrah stealer,gomorrah
+reverserat,reverse shell
