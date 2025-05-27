@@ -247,14 +247,10 @@ def main():
         - **Event Frequencies**: Analyze the **distribution of event types** and their relative importance.
         - **Most Frequent IPs**: View the **most frequent IPs**.
 
-        #### 📰 **Posts**
-        - **Keyword-Based Filtering**: Select a keyword sorted by **relevancy (frequency)** to filter relevant posts.
-        - **Top Recent Posts**: View the **titles and descriptions** of the top 5 most recent posts for a selected keyword.
-
         #### 🎯 **Why Use This Dashboard?**
         - Simplify complex cybersecurity data with **intuitive visualizations**.
         - Identify patterns and trends quickly to **stay ahead of threats**.
-        - Empower decision-making with **real-time insights** into logs, malware activity, and posts.
+        - Empower decision-making with **real-time insights** into logs, and malware activity.
 
         ---
 
@@ -264,7 +260,7 @@ def main():
         # Add a call to action
         st.markdown("""
         ### Ready to Secure Your Network?
-        Navigate to the **Threats**, **Logs**, and **Posts** tabs to start analyzing your data and uncover actionable insights!
+        Navigate to the **Threats** and **Logs** tabs to start analyzing your data and uncover actionable insights!
         """)
 
         # Footer Section
