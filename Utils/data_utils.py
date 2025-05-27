@@ -72,7 +72,7 @@ class PostsData:
         ID_TOKEN = ""
 
 def fetch_auth_token():
-    url = f"http://52.48.88.83:8000/auth/token?email=camilla.sancricca%40polimi.it&password=Camillacsaware97%21"
+    url = f"your_auth_token"
     headers = {
         "accept": "application/json"
     }
